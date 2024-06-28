@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.exe.config
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.exe
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.pdb
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.exe
+C:\Users\Dell\source\repos\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.pdb
